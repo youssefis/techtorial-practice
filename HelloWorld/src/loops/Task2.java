@@ -39,6 +39,8 @@ public class Task2 {
         System.out.print(" = "+sum);
 
  */
+
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter min and max number");
         System.out.println("Please enter the min number first");
