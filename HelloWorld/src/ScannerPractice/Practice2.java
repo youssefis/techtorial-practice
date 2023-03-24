@@ -1,5 +1,6 @@
 package ScannerPractice;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Practice2 {
@@ -16,7 +17,6 @@ public class Practice2 {
         String day= imput.nextLine();
         System.out.println("what city?");
         String city= imput.nextLine();
-
 
         System.out.println("So it is a " +" "+ answer+" "+ day +" in "+city);
 

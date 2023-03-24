@@ -17,7 +17,13 @@ public class Practice1 {
 
         System.out.println(map);
 
-        System.out.println(map.get("David"));;
+        System.out.println(map.get("David"));
+        String valueDavid= map.get("David");
+        System.out.println(valueDavid);
+        System.out.println(map.get(" David"));
+        System.out.println(map.get(" sAm"));
+        System.out.println(map.get(" Kevin"));
+        System.out.println(map.get("Brown "));
 
     }
 
